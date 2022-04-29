@@ -1,0 +1,9 @@
+Coded by user35p74a. 
+This code is used to connect easily on a server and manage different users. 
+It has to be upgraded so if you see something that isn't perfect, hang me. 
+usage: 
+        server [option] [user] | connect with specified username
+options:
+        -h | display help page 
+        -l | list all users
+        -c | connect to specified user
