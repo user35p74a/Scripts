@@ -1,0 +1,11 @@
+Coded by user35p74a. 
+This program is used to create project folders.
+It has to be upgraded so if you see something that isn't perfect. 
+usage: 
+	makefile [option] [other] | create a makefile with asked values.
+
+options: 
+	-h | display help page 
+	-l | list all users
+	-s | create a makefile with a specified language
+	-c | create a makefile with basic attributes
